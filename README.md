@@ -36,7 +36,7 @@ Next, configure your GitHub/GitLab/BitBucket webhook, for GitHub:
 - Press Add webhook
 
 #### Jenkins example
-Aslo setup your Jenkins to work with GitHub or other hosted git service.
+Also setup your Jenkins to work with GitHub or other hosted git service.
 For GitHub
 - Setup Jenkins [GitHub plugin](https://plugins.jenkins.io/github) (pro tip: Set the *Specify another hook URL for GitHub configuration* to the smee.io Webhook Proxy URL)
 - Setup your project/pipeline/whatever...
